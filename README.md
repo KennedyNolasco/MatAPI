@@ -1,7 +1,8 @@
 # MatAPI
-Matrix API for matrix manipulation in C, has the followings operations:
-# multiplication of two matrixes
-addition of two matrixes
+Matrix API for matrix manipulation in C
+# Operations: 
+- multiplication of two matrixes
+- addition of two matrixes
 subtraction of two matrixes
 multiply matrix by scalar
 add scalar to matrix
