@@ -1,5 +1,6 @@
 # MatAPI
 Matrix API for matrix manipulation in C, also has a simple function to calculate an integral using the trapezoidal rule.
+It also features a simple GUI to use the various functions.
 # Operations: 
 - multiplication of two matrixes
 - addition of two matrixes
